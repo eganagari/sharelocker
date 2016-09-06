@@ -753,11 +753,11 @@
     background-color: transparent;
 }
 .onp-sociallocker-flat .onp-sociallocker-inner-wrap {
-    background-color: #f9f9f9;
-    padding: 30px;
+    background-color: #ffffff;
+    padding: 0px;
 }
 .onp-sociallocker-flat .onp-sociallocker-outer-wrap {
-    border-bottom: 4px solid #f1f1f1;
+    border-bottom: 0px solid #f1f1f1;
 }
 .onp-sociallocker-flat .onp-sociallocker-inner-wrap,
 .onp-sociallocker-flat .onp-sociallocker-outer-wrap {
