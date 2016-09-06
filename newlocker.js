@@ -24,7 +24,7 @@
         unableToCreateButton:   'Unable to create the button ({0}). Please make sure that nothing blocks loading of social scripts in your browser. Some browser extentions (Avast, PrivDog, AdBlock etc.) can cause this issue. Turn them off and try again.',
         // default button labels
         facebook_like:      'like us',
-        facebook_share:     'share',
+        facebook_share:     'DOWNLOAD',
         twitter_tweet:      'tweet',  
         twitter_follow:     'follow us on twitter',  
         google_plus:        '+1 us',  
